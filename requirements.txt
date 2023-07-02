@@ -1,7 +1,8 @@
 openai
-requests
 bs4
+numpy
+urllib
+requests
 time
 os
-urllib
-numpy
+streamlit
