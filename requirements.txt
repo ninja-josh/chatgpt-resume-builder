@@ -1,7 +1,6 @@
 openai
 bs4
 numpy
-urllib
 requests
 time
 os
